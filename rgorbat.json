@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "rulerguardorbatter",
+  "private_key_id": "2e17c78405cd5c1df580ad8150257e09f02adf46",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrUEqWGbgIQOMp\nwAhRNj0Tdvnc7tZrVhz+ydCxdhGoEuQQvvpzsiPcOM3ufsZK+faHkULHG29WXVAp\nqy4t0wjLvm+1V4RTKfKOIJ49hyj6tZUsnVfjJHlnv94I95WJXO8iNRKZDjJl2ViM\n+Qcu3qL/tykafTTXcBp2NB2E8CkAwFar9odXClTYTv0d68cciuJsprCCbu5yGYUo\nkYfzmsoS8l5IasX6+ugLRqmW5z0YmYHJcQ4A3BqHGErattDt/Dm89/VHG9d+KPdA\nYgCfBQqlwex1LXUeMBoMaKFTBPebmPa8hQ0EdhFnEf8M4+W0a69JJLUOsxRma7h9\nVV0OcoObAgMBAAECggEAQd3Bh5uE19uG258DM6JMckbsw4aqtyMpS8bxb8GrATme\nKVgcOE52Hi5S8w8YE2yu3im6CI6iTIzdDOBNhX3dpGRoU8s9y7HVmdKttI9acKZP\nIBOw3lrAOOUaq8zxWBp8sOTB7Un5k5IwyybWHa2o8vOLoK0iG3D1I5xe+yVRRoGL\nz1e0EJalh4zXeekZIJ1B4Lx8FPEa/74oiMoJ0ciTg4xArSR6i9YqBFXcb9IcHwGe\nmHFB1JIoC0AVvbZYqbSygbNtkwOA5vLxzhWJK7PPIVUufg6HOEF22Eg4d8+iZEFt\nxCVRIs3OyLfNnu0jyK3ZJJG07p4h+KLRhiREjHS++QKBgQDYzW1/dSgnaBE/wkWN\ncYqBHm/7HzRG6KEyAbI7Z2U44IJbhfWKVWWtGiNU721mLq2UFFrkBSlwaH7Xgl+l\nkKJAcWh7immgC1mPtMjfs6pHKoVb3D+2dqeTe6BYyIIhoGN2WV/8AxigmOmKi6fT\n/aoswP+obSJvnVVd2DZnDlrI6QKBgQDKSXDkZs5pGCw782t4mvsSW/3gdzTSx0PY\n0age0MDDQgPJdv6yibZvCoSts9RnbLh/uPV8zVLsTlvpwkZz634hUgsD4TBr9aYa\nQTsBlZTHA/p48W4R0GdwfwCM76PbqBgQPktpV9CVy/E7xUBepTA47OPlGfJ0pqh5\nklfAfzVV4wKBgBN2/im/XweKtGHBE3WLiB/nl644Mv1azX4r4NCsi837eji1YkI1\nQJe2DQ4HIQ9XiYYN/csTG5FYEGtQ7T10Kt0WUYcl+i3AVx4r4Q0UmGkjTC3fLGk5\nZfo70z2lYumZ+NQbWh7KOF/S2sTxnPPPhoPWIB4DDmBvA8cVLm06QLRhAoGAOahl\nPTTwcJQrR4tCfsXt+nWuD2Tq8YlKlWps+RuXVhBi8/Gu90S5cz0URE6VpEUg8YbO\nshv0HtbW6/IsEq507RpteVWeb6c9CQ6+utzf4zoHEqH+NaWpVi9dAM7tbZakBT08\nUXJuScQvplG63z9GV3NuIccbjJRUQRKtYHjhwvECgYEAsdH2IXXLV7uJyFdqO0DM\nquiW/27sCFw2DbDLVknuAeCJiIq9MyQVmOew7d6/DDxuPqgEDCLLfBWpAdibayzf\nGTveddX2/IGN3SbMrF2lfDoD2QVwdTIYoCjx2NiX6HtcGnaL9uZvMYlkTKwKVRZl\n84gMCHTBVBonp+96rPRRpsk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rulerguard-orbat-system@rulerguardorbatter.iam.gserviceaccount.com",
+  "client_id": "102716986775674501386",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rulerguard-orbat-system%40rulerguardorbatter.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
